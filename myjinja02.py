@@ -5,13 +5,13 @@ from flask import render_template
 
 app = Flask(__name__)
 
-#@app.route("/")
-#def index():
-#    return render_template("hellobasic.html")
+@app.route("/")
+def index():
+    return render_template("hellobasic.html")
 
 @app.route("/<username>")
-def index(username):
-    return render_template("helloname.html",name = username)
+def userbuilder(username):
+    return render_template("hellobasic2.html",name = username)
 
 
 if __name__ == "__main__":
