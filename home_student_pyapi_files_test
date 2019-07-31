@@ -1,0 +1,16 @@
+-rw-r--r--  1 student student   332 Jul 31 11:59 postmaker.html
+drwxr-xr-x  6 student student  4096 Jul 31 14:03 python_api_class
+-rw-r--r--  1 student student  1731 Jul 30 14:54 rest01.py
+-rw-r--r--  1 student student   298 Jul 30 16:30 rest02.py
+-rw-r--r--  1 student student   570 Jul 31 09:05 rest03.py
+drwxr-xr-x  2 student student  4096 Jul 31 08:29 rpg
+drwxr-xr-x  2 student student  4096 Jul 31 15:37 templates
+-rw-r--r--  1 student student 12288 Jul 30 16:09 test.db
+-rw-r--r--  1 student student 12288 Jul 30 15:32 test2.db
+-rw-r--r--  1 student student 12288 Jul 30 15:47 test4.db
+-rw-r--r--  1 student student   625 Jul 30 09:40 try02.log
+-rw-r--r--  1 student student   818 Jul 30 09:37 try02.py
+-rw-r--r--  1 student student   300 Jul 30 09:51 try04.log
+-rw-r--r--  1 student student   545 Jul 30 09:50 try04.py
+-rw-r--r--  1 student student   363 Jul 30 09:11 tryExcept.py
+drwxr-xr-x  2 student student  4096 Jul 29 14:18 yaml
